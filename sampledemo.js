@@ -1,6 +1,6 @@
 
 
-let a = 700;
+let a = 70;
 let b = 100;
 
 let c = a+b;
