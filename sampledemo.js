@@ -1,4 +1,4 @@
-let a = 60;
+let a = 90;
 let b = 100;
 
 let c = a+b;
