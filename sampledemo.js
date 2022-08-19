@@ -1,5 +1,5 @@
 
-let a = 50;
+let a = 40;
 let b = 50;
 
 let c = a+b;
